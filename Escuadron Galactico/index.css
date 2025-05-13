@@ -1,0 +1,35 @@
+body{
+	background: #f4a646;
+	font-family: Roboto;
+	font-size: 12px;
+}
+.menu{
+ 	list-style: none;
+ 	padding: 0;
+ 	background: #f55050;
+ 	width: 90%;
+ 	max-width: 1000px;
+ 	margin: 20px auto;
+ }
+
+.menu li{
+ 	display: inline-block;
+ 	text-align: center;
+ }
+
+.menu li a{
+ 	color: #;
+ 	text-decoration: none;
+ 	display: block;
+ 	padding: 20px;
+ }
+
+.menu li a:hover{
+ 	background: #8a4adf;
+ }
+
+ footer{
+	background: #85C1E9;
+	height: 90px;
+	text-align: center;
+}

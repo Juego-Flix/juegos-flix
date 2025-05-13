@@ -1,0 +1,73 @@
+*{
+	padding: 0;
+	margin: 0;	
+}
+
+body{
+	background: #f4a646;
+	font-family: Roboto;
+	font-size: 12px;
+}
+ .menu{
+ 	list-style: none;
+ 	padding: 0;
+ 	background: #f55050;
+ 	width: 90%;
+ 	max-width: 1000px;
+ 	margin: 20px auto;
+ }
+
+ .menu li{
+ 	display: inline-block;
+ 	text-align: center;
+ }
+
+ .menu li a{
+ 	color: #;
+ 	text-decoration: none;
+ 	display: block;
+ 	padding: 20px;
+ }
+
+ .menu li a:hover{
+ 	background: #8a4adf;
+ }
+
+.contenedor{
+	background: #85C1E9;
+	width: 80%;
+	margin: auto;
+}
+
+header{
+	height: 400px;
+	background-image: url("fnaf.jpeg");
+	background-position: center;
+	background-size: cover;
+}
+
+main{
+	background: #FFFFFF;
+	padding: 20px 30px;
+	border: 2px solid #CACFD2;
+}
+
+main .foto{
+	width: 150px;
+	height: 150px;
+	background-color: #85C1E9;
+	border-radius: 50%;
+	margin: -90px 0 20px 0;
+	border: 6px solid #FFFFFF;
+}
+
+main .foto img{
+	width: 100%;
+	border-radius: 50%;
+}
+
+footer{
+	background: #85C1E9;
+	height: 90px;
+	text-align: center;
+}
